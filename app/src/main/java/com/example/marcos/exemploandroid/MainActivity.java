@@ -9,6 +9,7 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
+//modificado pelo navegador
 public class MainActivity extends AppCompatActivity {
 
     @Override
